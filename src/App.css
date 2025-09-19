@@ -82,3 +82,8 @@
   color: #ee6c4d;
   margin-top: 24px;
 }
+
+.App__button--theme {
+  display: flex;
+  margin-bottom: 20px;
+}
